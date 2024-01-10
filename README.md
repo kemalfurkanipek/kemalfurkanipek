@@ -15,7 +15,7 @@ If you're interested in collaborating on a project, exchanging ideas, or simply 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="linkedin.com/in/kemal-furkan-ipek-81b036185" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="cengizcmataraci" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/kemal-furkan-ipek-81b036185" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="cengizcmataraci" height="30" width="30" /></a>
 <a href="https://github.com/kemalfurkanipek" target="blank" rel=”noopener”><img align="center" src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" alt="cengizcmataraci" height="30" width="30" /></a>
 </p>
 
